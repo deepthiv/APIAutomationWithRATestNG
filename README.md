@@ -1,6 +1,6 @@
 # RestAssuredWithBDD
 
-## If you are using my code, care to buy a coffee for me ;) . My number -> +91-7507253075 (WhatsApp) 
+
 
 # API Automation Framework
 
